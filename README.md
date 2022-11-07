@@ -1,7 +1,7 @@
 
 
 # Image Script (CS5004 Mini-Project 8)
-2nd phase of an MVC application created in Java
+2nd phase of the MVC application in Java
 
 ## Table of Contents 
 
