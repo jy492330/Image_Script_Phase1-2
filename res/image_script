@@ -1,0 +1,74 @@
+save
+
+blur mosaic
+blur
+
+sharpen mosaic
+sharpen
+
+grayscale mosaic
+grayscale
+
+sepia mosaic
+sepia
+
+dither mosaic
+dither
+
+mosaic
+mosaic 1000
+
+
+load city development.png
+blur
+blur
+save city development-blurred2.png
+
+load city development.png
+sharpen
+save city development-sharpen.png
+
+load city development.png
+grayscale
+save city development-grayscale.png
+
+load city development.png
+sepia
+save city development-sepia.png
+
+load city development.png
+dither
+save city development-dither.png
+
+load city development.png
+blur
+grayscale
+save city development-blur-grayscale.png
+
+load city development.png
+sharpen
+sepia
+save city development-sharpen-sepia.png
+
+load city development.png
+dither
+blur
+save city development-dither-blur.png
+
+load city development.png
+dither
+sepia
+save city development-dither-sepia.png
+
+dither 12345
+
+mosaic 1000
+
+load
+
+write
+
+load new york city.png
+
+save *<city development.png>
+
